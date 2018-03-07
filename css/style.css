@@ -10,3 +10,7 @@ img, video, audio, iframe, table, form {
 .row {
   margin-bottom: 20px;
 }
+
+.navbar li a {
+  font-size: 0.85em;
+}
